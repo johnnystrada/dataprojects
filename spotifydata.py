@@ -3,9 +3,8 @@
 Created on Mon Sep 12 20:13:00 2022
 
 @author: John S. Strada
-Description: This script is meant to open a large csv file, read it, 
-& apply a condition based and then write
-the partioned data to a new smaller csv file.
+Description: This script is meant to open a larger spotify csv file, read it, 
+& apply a condition basis and then write the partioned data to a new smaller spotify csv file.
 """
 import pandas as pd #imports the panda module
 data = pd.read_csv("C:\\Data\\spotify_songs.csv", encoding="utf8") # opens the original csv for reading and creates the data frame

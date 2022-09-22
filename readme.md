@@ -1,4 +1,5 @@
-# John S. Strada Data Projects
+# Johnny Strada - Data Projects Repository
+
 # (C) Author: John S. Strada
 # Last updated 09-22-2022
 

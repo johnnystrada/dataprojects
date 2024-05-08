@@ -9,4 +9,4 @@ This repository will host a number of files related to various data anlaysis pro
 
 All code rights are my own but I am happy to discuss any methodologies utilized. 
 
-This repository will attempt to keep available projects updated, when necessary, and that can be shared openly. Some projects that used original properity data may use various dummy data in its place so that the project may be shared. In these cases it will be noted that dummy data has been used.
+This repository will attempt to keep available projects updated, when necessary, and that can be shared openly. Some projects that used original proprietary data may use various dummy data in its place so that the project may be shared. In these cases it will be noted that dummy data has been used.
